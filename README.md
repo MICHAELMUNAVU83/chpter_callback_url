@@ -1,19 +1,41 @@
-# ChpterCallbackUrl
+# Project Title
+
+Creating a Chpter Callback URL in ELixir
+
+## Table of Content:
+
+- [About The Project](#about-the-app)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Credits](#credits)
+
+## About The App
+
+This is a simple app that demonstrates how to create a chapter callback url in Elixir.
+It is a pre-requisite for the article i wrote on Medium
+[Creating A Callback url for Chpter in Elixir ](https://medium.com/@michaelmunavu83/creating-a-callback-url-endpoint-for-chpter-api-with-elixir-4c9a5ca44f43)
+
+## Screenshots
+
+## Technologies
+
+I used `Elixir ` .
+
+## Setup
 
 To start your Phoenix server:
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+- Install dependencies with `mix deps.get`
+- Create and migrate your database with `mix ecto.setup`
+- Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+## Credits
 
-## Learn more
+👤 **MICHAEL MUNAVU**
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+- GitHub: [@githubhandle](https://github.com/MICHAELMUNAVU83)
+- Twitter: [@twitterhandle](https://twitter.com/MichaelTrance1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/michael-munavu-78703a218/)
