@@ -17,6 +17,9 @@ It is a pre-requisite for the article i wrote on Medium
 [Creating A Callback url for Chpter in Elixir ](https://medium.com/@michaelmunavu83/creating-a-callback-url-endpoint-for-chpter-api-with-elixir-4c9a5ca44f43)
 
 ## Screenshots
+![Screenshot 2023-10-21 at 10 43 33](https://github.com/MICHAELMUNAVU83/chpter_callback_url/assets/86654131/5238ebe6-bcff-4314-bb9b-d4e7f9a69d3c)
+
+
 
 ## Technologies
 
