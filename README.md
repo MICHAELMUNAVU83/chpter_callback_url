@@ -32,6 +32,11 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
+## Hex Package
+
+There is a hex package for chpter that I worked on. You can find it here [Chpter Hex package](https://hex.pm/packages/chpter) , and the full documentation here [Chpter Hex package Documentation ](https://hexdocs.pm/chpter/0.1.1/Chpter.html)
+
+
 ## Credits
 
 👤 **MICHAEL MUNAVU**
